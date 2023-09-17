@@ -1,4 +1,4 @@
-# Hello! Hej! Bonjour! Привет! ![Profile Views](https://komarev.com/ghpvc/?username=breitburg)
+## Hello! Hej! Bonjour! こんにちは! ![Profile Views](https://komarev.com/ghpvc/?username=breitburg)
 
 Greetings (again). I'm a he/him residing in Brussels, Belgium.  
 I express myself through graphic design and software development.  
