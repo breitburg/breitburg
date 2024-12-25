@@ -1,4 +1,4 @@
-## Hello! Hej! Bonjour! こんにちは!
+## Hello! Привет! Hej! Bonjour! こんにちは!
 
 Greetings (again). I'm a he/him residing in Leuven, Belgium.  
 Learn more by visiting [my CV](https://cv.breitburg.com/).
